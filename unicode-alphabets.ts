@@ -1,4 +1,5 @@
 // Credits goes to https://beautifuldingbats.com/hey-howd-you-do-that
+// Credits goes to https://www.producthunt.com/@johnbbartlet
 
 exports const dict = {
     "frakturDict": {
